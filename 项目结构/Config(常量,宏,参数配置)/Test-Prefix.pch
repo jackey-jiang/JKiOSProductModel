@@ -1,0 +1,14 @@
+//
+//  Test-Prefix.pch
+//  项目结构
+//
+//  Created by AVGD—JK on 16/5/27.
+//  Copyright © 2016年 AVGD. All rights reserved.
+//
+
+#ifndef Test_Prefix_pch
+#define Test_Prefix_pch
+
+#define aaa   1
+
+#endif /* Test_Prefix_pch */
